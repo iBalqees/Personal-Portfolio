@@ -3,7 +3,7 @@
 This project is a simple personal portfolio website created using HTML and CSS. It introduces me as an Information Technology student and highlights my skills, hobbies, and contact information.
 
 ## Features
-- Responsive personal portfolio website
+- personal portfolio website
 - About Me section
 - Skills section
 - Hobbies section
