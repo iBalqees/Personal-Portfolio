@@ -14,5 +14,6 @@ This project is a simple personal portfolio website created using HTML and CSS. 
 - CSS3
 
 ## How to Run
-1. Open the project folder.
-2. Double-click index.html or open it in any web browser.
+1.Download the repository
+2.Open the project folder.
+2. open "index.html" in any web browser.
